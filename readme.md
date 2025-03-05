@@ -14,7 +14,7 @@ A simple remote screen capture system using Python that allows a client to captu
 
 ```bash
 git clone https://github.com/hammad-saifi/RSL-SAIFI.git
-cd remote-screen-logger
+cd RSL-SAIFI
 ```
 
 ### 2️. Create a Virtual Environment
