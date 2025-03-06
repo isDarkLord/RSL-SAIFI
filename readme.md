@@ -22,6 +22,7 @@ cd RSL-SAIFI
 ```bash
 python -m venv venv
 venv\Scripts\activate  # Activate virtual environment (Windows)
+python -m venv  venv && source venv/bin/activate # activate virtual environment (linux)
 ```
 
 ### 3️. Install Dependencies
